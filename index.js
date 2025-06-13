@@ -1,6 +1,6 @@
 
-var unrtf = require('../unrtf');
-var pyth = require('../pyth');
+var unrtf = require('./unrtf');
+var pyth = require('./pyth');
 
 function noop() {}
 
